@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Surround Sound (feat. 21 Savage & Baby Tate)",
+  "base_artist": "JID",
+  "createdAt": "2026-03-01T11:47:07.326359Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Surround Sound (feat. 21 Savage & Baby Tate)",
+      "artist": "JID feat. 21 Savage & Baby Tate",
+      "has_synced": true,
+      "path": "select/01_Surround_Sound_(feat._21_Savage_&_Baby_Tate)_JID_feat._21_Savage_&_Baby_Tate.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Surround Sound (feat. 21 Savage & Baby Tate)",
+      "artist": "JID",
+      "has_synced": true,
+      "path": "select/02_Surround_Sound_(feat._21_Savage_&_Baby_Tate)_JID.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Surround Sound (feat. 21 Savage & Baby Tate)",
+      "artist": "JID, 21 Savage, Baby Tate",
+      "has_synced": true,
+      "path": "select/03_Surround_Sound_(feat._21_Savage_&_Baby_Tate)_JID,_21_Savage,_Baby_Tate.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Surround Sound (feat. 21 Savage & Baby Tate)",
+      "artist": "J.I.D",
+      "has_synced": true,
+      "path": "select/04_Surround_Sound_(feat._21_Savage_&_Baby_Tate)_J.I.D.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Surround Sound Feat. 21 Savage & Baby Tate - Single",
+      "artist": "JID",
+      "has_synced": true,
+      "path": "select/05_Surround_Sound_Feat._21_Savage_&_Baby_Tate_-_Single_JID.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Surround Sound (feat. 21 Savage & Baby Tate)",
+      "artist": "JID/21 Savage/Baby Tate",
+      "has_synced": true,
+      "path": "select/06_Surround_Sound_(feat._21_Savage_&_Baby_Tate)_JID_21_Savage_Baby_Tate.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Surround Sound (feat. 21 Savage",
+      "artist": "JID",
+      "has_synced": true,
+      "path": "select/07_Surround_Sound_(feat._21_Savage_JID.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "J.I.D - Surround Sound (feat. 21 Savage & Baby Tate) [Official Music Video]",
+      "artist": "JID",
+      "has_synced": true,
+      "path": "select/08_J.I.D_-_Surround_Sound_(feat._21_Savage_&_Baby_Tate)_[Official_Music_Video]_JID.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Surround Sound (feat. 21 Savage & Baby Tate)",
+      "artist": "JID",
+      "has_synced": true,
+      "path": "select/09_Surround_Sound_(feat._21_Savage_&_Baby_Tate)_JID.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Surround Sound (feat. 21 Savage & Baby Tate)",
+      "artist": "JID",
+      "has_synced": true,
+      "path": "select/10_Surround_Sound_(feat._21_Savage_&_Baby_Tate)_JID.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Surround Sound (feat. 21 Savage & Baby Tate)",
+      "artist": "JID, 21 Savage, Baby Tate",
+      "has_synced": true,
+      "path": "select/11_Surround_Sound_(feat._21_Savage_&_Baby_Tate)_JID,_21_Savage,_Baby_Tate.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Surround Sound (Feat. 21 Savage & Baby Tate)",
+      "artist": "J.I.D",
+      "has_synced": false,
+      "path": "select/12_Surround_Sound_(Feat._21_Savage_&_Baby_Tate)_J.I.D.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "J.I.D - Surround Sound (feat. 21 Savage & Baby Tate) [Official Music Video]",
+      "artist": "JIDVEVO",
+      "has_synced": true,
+      "path": "select/13_J.I.D_-_Surround_Sound_(feat._21_Savage_&_Baby_Tate)_[Official_Music_Video]_JIDVEVO.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Surround Sound (feat. 21 Savage",
+      "artist": "JID, 21 Savage, Baby Tate",
+      "has_synced": true,
+      "path": "select/14_Surround_Sound_(feat._21_Savage_JID,_21_Savage,_Baby_Tate.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Surround Sound (feat. 21 Savage",
+      "artist": "JID",
+      "has_synced": true,
+      "path": "select/15_Surround_Sound_(feat._21_Savage_JID.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Surround Sound (feat. 21 Savage & Baby Tate)",
+      "artist": "JID, 21 Savage, Baby Tate",
+      "has_synced": false,
+      "path": "select/pl_01_Surround_Sound_(feat._21_Savage_&_Baby_Tate)_JID,_21_Savage,_Baby_Tate.txt"
+    }
+  ]
+}
